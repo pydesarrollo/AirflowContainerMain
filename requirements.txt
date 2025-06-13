@@ -1,0 +1,5 @@
+apache-airflow-providers-sftp
+apache-airflow-providers-amazon[s3]
+pyodbc
+rarfile
+pandas

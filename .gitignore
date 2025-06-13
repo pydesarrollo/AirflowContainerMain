@@ -1,0 +1,6 @@
+
+/logs
+__pycache__/
+/notas
+dags/archivos_descargados/
+dags/archivos_para_insertar/
